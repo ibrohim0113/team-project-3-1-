@@ -1,1 +1,9 @@
 @import "tailwindcss";
+.w1{
+    background-image: url(./mrtazo.img/27be3038bae4257d89397ead63485f276489b3fa.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    height: 400px;
+}
